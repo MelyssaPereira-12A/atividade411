@@ -5,3 +5,13 @@
     font-family: "Lora", serif;
 }
 
+header {
+    background-color: #008000;
+    height: 8rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
