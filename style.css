@@ -14,4 +14,17 @@ header {
     align-items: center;
 }
 
+.primeira {
+    display: flex;
+    align-items: center;
+}
+
+p {
+    max-width: 30rem;
+    margin-right: 2rem;
+}
+
+img {
+    width: 22rem;
+}
 
