@@ -20,13 +20,13 @@ header {
     justify-content: space-around;
 }
 
-p {
+.primeira p {
     max-width: 30rem;
     margin-right: 2rem;
 }
 
-img {
-    width: 22rem;
+.primeira img {
+    width: 21rem;
 }
 
 .segunda {
@@ -35,4 +35,9 @@ img {
     height: 25rem;
 
     justify-content: center;
+
+}
+
+.segunda img {
+    width: 28rem;
 }
