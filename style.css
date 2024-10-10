@@ -33,4 +33,6 @@ img {
     background-color: #f3de2c;
 
     height: 25rem;
+
+    justify-content: center;
 }
