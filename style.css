@@ -6,7 +6,7 @@
 }
 
 header {
-    background-color: #008000;
+    background-color: #7cb518;
     height: 8rem;
 
     display: flex;
@@ -17,6 +17,7 @@ header {
 .primeira {
     display: flex;
     align-items: center;
+    justify-content: space-around;
 }
 
 p {
@@ -28,3 +29,8 @@ img {
     width: 22rem;
 }
 
+.segunda {
+    background-color: #f3de2c;
+
+    height: 25rem;
+}
