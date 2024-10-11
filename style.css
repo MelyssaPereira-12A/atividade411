@@ -31,13 +31,19 @@ header {
 
 .segunda {
     background-color: #f3de2c;
-
     height: 25rem;
-
+    display: flex;
+    justify-content: space-evenly;
     justify-content: center;
-
+    align-items: center;
 }
 
 .segunda img {
-    width: 28rem;
+    width: 18rem;
+    height: 22rem;
+}
+
+.segunda p {
+    max-width: 30rem;
+    justify-content: space-around;
 }
